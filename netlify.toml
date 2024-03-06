@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build" # O cualquier otro comando de compilación que estés usando
+  publish = "index.html" # Ruta al archivo index.html que deseas desplegar
