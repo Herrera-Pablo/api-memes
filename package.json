@@ -1,12 +1,13 @@
 {
   "name": "api_memes",
   "version": "1.0.0",
-  "description": "",
+  "description": "Una API para acceder a una colección de memes divertidos.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["API", "memes", "divertido"],
+  "author": "Pablo Gastón Herrera",
   "license": "ISC"
 }
